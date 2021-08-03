@@ -1,2 +1,5 @@
 # FingerprintSensor_Smart_Attendance_System
-Manual systems are time consuming and unsafe. In the proposed project Face Recognition Attendance App is designed which is less time consuming, safe, and easy to implement because-  User Friendly Minimal paperwork.  Time Saving
+The App is designed such that it is less time consuming, safe,minimal paper work,
+efficient attendance tracking and at the ease of the fingertips. It uses the
+fingerprint of the student to clock the attendance and prevents any type of
+proxies
